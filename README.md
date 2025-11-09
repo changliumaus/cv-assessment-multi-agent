@@ -1,6 +1,6 @@
 # CV Assessment Agent
 
-A sophisticated multi-agent framework for assessing job applicants' CVs and determining fit for job positions using LangGraph and LLMs.
+A multi-agent framework for assessing job applicants' CVs and determining fit for job positions using LangGraph and LLMs.
 
 ## Features
 
@@ -25,7 +25,7 @@ The framework consists of 6 specialized agents working in a coordinated workflow
 
 2. **Job Analyzer Agent**: Analyzes and structures job descriptions
    - Requirements categorization (must-have vs nice-to-have)
-   - Importance ratings (1-5 scale)
+   - Required Skills and Experience
    - Responsibilities and qualifications
 
 3. **Skills Matcher Agent**: Matches candidate skills to job requirements

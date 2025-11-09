@@ -19,6 +19,8 @@ cp .env.example .env
 Edit `.env` and add your API key:
 ```bash
 # Choose one provider:
+GEMINI_API_KEY=your-gemini-api-key-here
+# OR
 ANTHROPIC_API_KEY=sk-ant-your-key-here
 # OR
 OPENAI_API_KEY=sk-your-key-here
