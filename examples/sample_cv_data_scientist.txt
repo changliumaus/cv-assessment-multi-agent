@@ -1,0 +1,164 @@
+Dr. Sarah Chen
+Senior Data Scientist
+
+Email: sarah.chen@email.com
+Phone: +1 (555) 987-6543
+Location: New York, NY
+LinkedIn: linkedin.com/in/sarahchen
+GitHub: github.com/sarahchen
+
+PROFESSIONAL SUMMARY
+Accomplished Senior Data Scientist with 6+ years of experience in machine learning, deep learning,
+and statistical analysis. Expert in Python, R, and SQL with a proven track record of deploying
+production-grade ML models that drive business impact. Ph.D. in Computer Science with specialization
+in Natural Language Processing. Passionate about turning data into actionable insights and building
+scalable ML pipelines.
+
+TECHNICAL SKILLS
+
+Programming Languages:
+- Python (Expert, 6+ years)
+- R (Advanced, 5 years)
+- SQL (Advanced, 6 years)
+- Java (Intermediate, 2 years)
+- Scala (Intermediate, 2 years)
+
+Machine Learning & AI:
+- Scikit-learn, TensorFlow, PyTorch, Keras
+- XGBoost, LightGBM, CatBoost
+- Hugging Face Transformers
+- spaCy, NLTK
+- OpenCV, PIL
+
+Data Engineering & Big Data:
+- Apache Spark, PySpark
+- Apache Kafka
+- Airflow, Prefect
+- Hadoop, Hive
+- Delta Lake
+
+Cloud & Infrastructure:
+- AWS (SageMaker, EC2, S3, Lambda, EMR)
+- Google Cloud Platform (Vertex AI, BigQuery)
+- Docker, Kubernetes
+- MLflow, Weights & Biases
+- DVC (Data Version Control)
+
+Data Visualization & Analytics:
+- Tableau, Power BI
+- Plotly, Matplotlib, Seaborn
+- D3.js
+- Jupyter, Google Colab
+
+Databases:
+- PostgreSQL, MySQL
+- MongoDB, Cassandra
+- Redis, Elasticsearch
+- Snowflake, Redshift
+
+Statistical Methods:
+- A/B Testing & Experimentation
+- Bayesian Statistics
+- Time Series Analysis
+- Causal Inference
+- Hypothesis Testing
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Scientist
+DataTech AI | New York, NY
+March 2021 - Present
+
+- Led development of a recommendation engine using collaborative filtering and deep learning,
+  increasing user engagement by 35% and revenue by $12M annually
+- Built and deployed a real-time fraud detection system processing 1M+ transactions daily with
+  99.2% accuracy, reducing fraud losses by 45%
+- Architected end-to-end MLOps pipeline using Airflow, MLflow, and Kubernetes, reducing model
+  deployment time from weeks to days
+- Developed NLP-based customer sentiment analysis system analyzing 500K+ customer reviews monthly,
+  providing actionable insights to product and marketing teams
+- Mentored team of 3 junior data scientists and conducted regular ML workshops
+- Technologies: Python, TensorFlow, PyTorch, AWS SageMaker, Spark, Airflow, Docker, Kubernetes
+
+Data Scientist
+Analytics Solutions Inc. | Boston, MA
+June 2019 - February 2021
+
+- Developed predictive models for customer churn prediction achieving 87% accuracy, enabling
+  proactive retention strategies that reduced churn by 22%
+- Created automated reporting dashboards in Tableau reducing manual reporting time by 80%
+- Built time series forecasting models for demand prediction with MAPE < 5%, optimizing
+  inventory management and reducing costs by $3M annually
+- Implemented A/B testing framework for product experimentation, enabling data-driven
+  decision making across 50+ experiments
+- Collaborated with engineering team to productionize 8 ML models in AWS environment
+- Technologies: Python, R, Scikit-learn, XGBoost, SQL, Tableau, AWS, Apache Airflow
+
+Research Data Scientist
+University Research Lab | Cambridge, MA
+September 2017 - May 2019
+
+- Conducted cutting-edge research in Natural Language Processing and published 4 papers in
+  top-tier conferences (ACL, EMNLP)
+- Developed novel deep learning architectures for text classification and named entity recognition
+- Built large-scale datasets and trained transformer models for domain-specific applications
+- Collaborated with industry partners to apply research to real-world problems
+- Technologies: Python, TensorFlow, PyTorch, BERT, GPT, spaCy, CUDA
+
+EDUCATION
+
+Ph.D. in Computer Science (Natural Language Processing)
+Massachusetts Institute of Technology | Cambridge, MA
+Graduated: May 2019
+Thesis: "Attention Mechanisms for Low-Resource Language Understanding"
+GPA: 3.95/4.0
+
+M.S. in Statistics
+Stanford University | Stanford, CA
+Graduated: May 2016
+GPA: 3.9/4.0
+
+B.S. in Mathematics & Computer Science
+University of California, Berkeley | Berkeley, CA
+Graduated: May 2014
+Summa Cum Laude, GPA: 3.95/4.0
+
+PUBLICATIONS
+
+1. Chen, S., et al. (2019). "Cross-lingual Transfer Learning for Low-Resource NLP."
+   Annual Meeting of the Association for Computational Linguistics (ACL).
+
+2. Chen, S., & Wang, J. (2018). "Attention-based Neural Networks for Clinical Text Mining."
+   Conference on Empirical Methods in Natural Language Processing (EMNLP).
+
+3. Chen, S., et al. (2018). "Multi-task Learning for Named Entity Recognition in Healthcare."
+   Journal of Biomedical Informatics.
+
+4. Chen, S., & Liu, M. (2017). "Deep Learning Approaches for Sentiment Analysis."
+   International Conference on Machine Learning (ICML) Workshop.
+
+CERTIFICATIONS
+
+- AWS Certified Machine Learning - Specialty (2022)
+- Google Cloud Professional Data Engineer (2021)
+- TensorFlow Developer Certificate (2020)
+
+AWARDS & ACHIEVEMENTS
+
+- Winner, Kaggle Competition: "Predicting Molecular Properties" (Top 1% of 2,500+ teams)
+- DataTech AI Innovation Award for ML Excellence (2023)
+- MIT Presidential Fellowship (2015-2019)
+- Best Research Paper Award, EMNLP Workshop (2018)
+
+PROJECTS & OPEN SOURCE
+
+- Contributor to Scikit-learn and Hugging Face Transformers libraries (500+ stars on personal projects)
+- Created open-source tool for automated ML model documentation (1,200+ GitHub stars)
+- Regular speaker at PyData, MLOps, and AI conferences
+- Technical blog on Medium with 10K+ followers covering ML best practices
+
+LANGUAGES
+
+- English (Native)
+- Mandarin Chinese (Native)
+- Spanish (Conversational)

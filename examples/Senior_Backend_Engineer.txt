@@ -1,0 +1,77 @@
+Senior Backend Engineer
+
+Company: InnovateTech Solutions
+Location: San Francisco, CA (Hybrid)
+Employment Type: Full-time
+Department: Engineering
+
+ABOUT US
+InnovateTech Solutions is a fast-growing fintech company revolutionizing digital payments.
+We process billions of transactions annually and are looking for talented engineers to join
+our mission of making financial services accessible to everyone.
+
+JOB DESCRIPTION
+We are seeking an experienced Senior Backend Engineer to join our Platform Engineering team.
+You will be responsible for designing and building highly scalable, reliable backend systems
+that power our payment processing infrastructure. This role requires strong technical skills,
+leadership abilities, and a passion for solving complex distributed systems challenges.
+
+KEY RESPONSIBILITIES
+• Design, develop, and maintain scalable backend services and APIs
+• Build and optimize high-throughput payment processing systems
+• Collaborate with cross-functional teams including Product, Frontend, and DevOps
+• Lead technical design discussions and architecture reviews
+• Mentor junior and mid-level engineers
+• Participate in on-call rotation for production support
+• Write clean, maintainable, and well-tested code
+• Contribute to technical documentation and best practices
+
+REQUIRED QUALIFICATIONS
+• 5+ years of professional software engineering experience
+• Strong proficiency in Python or Go
+• Experience with web frameworks (Django, Flask, FastAPI, or similar)
+• Deep understanding of RESTful API design and microservices architecture
+• Solid experience with SQL databases (PostgreSQL, MySQL) and query optimization
+• Experience with cloud platforms (AWS, GCP, or Azure)
+• Strong understanding of distributed systems concepts
+• Experience with containerization (Docker) and orchestration (Kubernetes)
+• Excellent problem-solving and debugging skills
+• Strong communication and collaboration abilities
+• Bachelor's degree in Computer Science or equivalent experience
+
+PREFERRED QUALIFICATIONS
+• Experience in fintech or payment processing systems
+• Knowledge of event-driven architectures and message queues (Kafka, RabbitMQ)
+• Experience with NoSQL databases (MongoDB, Redis)
+• Familiarity with monitoring and observability tools (Prometheus, Grafana, DataDog)
+• Experience with infrastructure as code (Terraform, CloudFormation)
+• Contributions to open source projects
+• Experience with GraphQL
+• Understanding of security best practices and compliance requirements (PCI-DSS)
+
+TECHNICAL STACK
+• Backend: Python, Go, Django, FastAPI
+• Databases: PostgreSQL, Redis, MongoDB
+• Infrastructure: AWS, Kubernetes, Docker, Terraform
+• CI/CD: GitHub Actions, Jenkins
+• Monitoring: Prometheus, Grafana, DataDog
+
+WHAT WE OFFER
+• Competitive salary range: $160,000 - $220,000 (based on experience)
+• Equity compensation
+• Comprehensive health, dental, and vision insurance
+• 401(k) matching
+• Flexible PTO policy
+• Professional development budget
+• Remote work flexibility (hybrid model)
+• Modern tech stack and tools
+• Collaborative and inclusive culture
+
+COMPANY CULTURE
+We value innovation, collaboration, and continuous learning. Our team is passionate about
+technology and committed to building products that make a real impact. We believe in work-life
+balance and provide a supportive environment where everyone can grow their careers.
+
+TO APPLY
+Please submit your resume and a brief cover letter explaining why you're interested in
+joining InnovateTech Solutions.

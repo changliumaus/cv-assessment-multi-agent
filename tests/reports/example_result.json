@@ -1,0 +1,691 @@
+{
+  "cv_data": {
+    "candidate_name": "Dr. Sarah Chen",
+    "email": "sarah.chen@email.com",
+    "phone": "+1 (555) 987-6543",
+    "location": "New York, NY",
+    "summary": "Accomplished Senior Data Scientist with 6+ years of experience in machine learning, deep learning,\nand statistical analysis. Expert in Python, R, and SQL with a proven track record of deploying\nproduction-grade ML models that drive business impact. Ph.D. in Computer Science with specialization\nin Natural Language Processing. Passionate about turning data into actionable insights and building\nscalable ML pipelines.",
+    "skills": [
+      {
+        "name": "Python",
+        "skill_level": "expert",
+        "years_experience": 6.0,
+        "category": "Programming Languages"
+      },
+      {
+        "name": "R",
+        "skill_level": "advanced",
+        "years_experience": 5.0,
+        "category": "Programming Languages"
+      },
+      {
+        "name": "SQL",
+        "skill_level": "advanced",
+        "years_experience": 6.0,
+        "category": "Programming Languages"
+      },
+      {
+        "name": "Java",
+        "skill_level": "intermediate",
+        "years_experience": 2.0,
+        "category": "Programming Languages"
+      },
+      {
+        "name": "Scala",
+        "skill_level": "intermediate",
+        "years_experience": 2.0,
+        "category": "Programming Languages"
+      },
+      {
+        "name": "Scikit-learn",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Machine Learning & AI"
+      },
+      {
+        "name": "TensorFlow",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Machine Learning & AI"
+      },
+      {
+        "name": "PyTorch",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Machine Learning & AI"
+      },
+      {
+        "name": "Keras",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Machine Learning & AI"
+      },
+      {
+        "name": "XGBoost",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Machine Learning & AI"
+      },
+      {
+        "name": "LightGBM",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Machine Learning & AI"
+      },
+      {
+        "name": "CatBoost",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Machine Learning & AI"
+      },
+      {
+        "name": "Hugging Face Transformers",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Machine Learning & AI"
+      },
+      {
+        "name": "spaCy",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Machine Learning & AI"
+      },
+      {
+        "name": "NLTK",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Machine Learning & AI"
+      },
+      {
+        "name": "OpenCV",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Machine Learning & AI"
+      },
+      {
+        "name": "PIL",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Machine Learning & AI"
+      },
+      {
+        "name": "Apache Spark",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Data Engineering & Big Data"
+      },
+      {
+        "name": "PySpark",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Data Engineering & Big Data"
+      },
+      {
+        "name": "Apache Kafka",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Data Engineering & Big Data"
+      },
+      {
+        "name": "Airflow",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Data Engineering & Big Data"
+      },
+      {
+        "name": "Prefect",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Data Engineering & Big Data"
+      },
+      {
+        "name": "Hadoop",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Data Engineering & Big Data"
+      },
+      {
+        "name": "Hive",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Data Engineering & Big Data"
+      },
+      {
+        "name": "Delta Lake",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Data Engineering & Big Data"
+      },
+      {
+        "name": "AWS SageMaker",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Cloud & Infrastructure"
+      },
+      {
+        "name": "AWS EC2",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Cloud & Infrastructure"
+      },
+      {
+        "name": "AWS S3",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Cloud & Infrastructure"
+      },
+      {
+        "name": "AWS Lambda",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Cloud & Infrastructure"
+      },
+      {
+        "name": "AWS EMR",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Cloud & Infrastructure"
+      },
+      {
+        "name": "Google Cloud Platform Vertex AI",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Cloud & Infrastructure"
+      },
+      {
+        "name": "Google Cloud Platform BigQuery",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Cloud & Infrastructure"
+      },
+      {
+        "name": "Docker",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Cloud & Infrastructure"
+      },
+      {
+        "name": "Kubernetes",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Cloud & Infrastructure"
+      },
+      {
+        "name": "MLflow",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Cloud & Infrastructure"
+      },
+      {
+        "name": "Weights & Biases",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Cloud & Infrastructure"
+      },
+      {
+        "name": "DVC",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Cloud & Infrastructure"
+      },
+      {
+        "name": "Tableau",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Data Visualization & Analytics"
+      },
+      {
+        "name": "Power BI",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Data Visualization & Analytics"
+      },
+      {
+        "name": "Plotly",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Data Visualization & Analytics"
+      },
+      {
+        "name": "Matplotlib",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Data Visualization & Analytics"
+      },
+      {
+        "name": "Seaborn",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Data Visualization & Analytics"
+      },
+      {
+        "name": "D3.js",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Data Visualization & Analytics"
+      },
+      {
+        "name": "Jupyter",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Data Visualization & Analytics"
+      },
+      {
+        "name": "Google Colab",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Data Visualization & Analytics"
+      },
+      {
+        "name": "PostgreSQL",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Databases"
+      },
+      {
+        "name": "MySQL",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Databases"
+      },
+      {
+        "name": "MongoDB",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Databases"
+      },
+      {
+        "name": "Cassandra",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Databases"
+      },
+      {
+        "name": "Redis",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Databases"
+      },
+      {
+        "name": "Elasticsearch",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Databases"
+      },
+      {
+        "name": "Snowflake",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Databases"
+      },
+      {
+        "name": "Redshift",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Databases"
+      },
+      {
+        "name": "A/B Testing",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Statistical Methods"
+      },
+      {
+        "name": "Experimentation",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Statistical Methods"
+      },
+      {
+        "name": "Bayesian Statistics",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Statistical Methods"
+      },
+      {
+        "name": "Time Series Analysis",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Statistical Methods"
+      },
+      {
+        "name": "Causal Inference",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Statistical Methods"
+      },
+      {
+        "name": "Hypothesis Testing",
+        "skill_level": null,
+        "years_experience": null,
+        "category": "Statistical Methods"
+      }
+    ],
+    "work_experience": [
+      {
+        "company": "DataTech AI",
+        "position": "Senior Data Scientist",
+        "start_date": "March 2021",
+        "end_date": "Present",
+        "duration_months": null,
+        "responsibilities": [
+          "Led development of a recommendation engine using collaborative filtering and deep learning,\n  increasing user engagement by 35% and revenue by $12M annually",
+          "Built and deployed a real-time fraud detection system processing 1M+ transactions daily with\n  99.2% accuracy, reducing fraud losses by 45%",
+          "Architected end-to-end MLOps pipeline using Airflow, MLflow, and Kubernetes, reducing model\n  deployment time from weeks to days",
+          "Developed NLP-based customer sentiment analysis system analyzing 500K+ customer reviews monthly,\n  providing actionable insights to product and marketing teams",
+          "Mentored team of 3 junior data scientists and conducted regular ML workshops"
+        ]
+      },
+      {
+        "company": "Analytics Solutions Inc.",
+        "position": "Data Scientist",
+        "start_date": "June 2019",
+        "end_date": "February 2021",
+        "duration_months": null,
+        "responsibilities": [
+          "Developed predictive models for customer churn prediction achieving 87% accuracy, enabling\n  proactive retention strategies that reduced churn by 22%",
+          "Created automated reporting dashboards in Tableau reducing manual reporting time by 80%",
+          "Built time series forecasting models for demand prediction with MAPE < 5%, optimizing\n  inventory management and reducing costs by $3M annually",
+          "Implemented A/B testing framework for product experimentation, enabling data-driven\n  decision making across 50+ experiments",
+          "Collaborated with engineering team to productionize 8 ML models in AWS environment"
+        ]
+      },
+      {
+        "company": "University Research Lab",
+        "position": "Research Data Scientist",
+        "start_date": "September 2017",
+        "end_date": "May 2019",
+        "duration_months": null,
+        "responsibilities": [
+          "Conducted cutting-edge research in Natural Language Processing and published 4 papers in\n  top-tier conferences (ACL, EMNLP)",
+          "Developed novel deep learning architectures for text classification and named entity recognition",
+          "Built large-scale datasets and trained transformer models for domain-specific applications",
+          "Collaborated with industry partners to apply research to real-world problems"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Massachusetts Institute of Technology",
+        "degree": "Ph.D.",
+        "field_of_study": "Computer Science (Natural Language Processing)",
+        "graduation_year": 2019,
+        "gpa": 3.95
+      },
+      {
+        "institution": "Stanford University",
+        "degree": "M.S.",
+        "field_of_study": "Statistics",
+        "graduation_year": 2016,
+        "gpa": 3.9
+      },
+      {
+        "institution": "University of California, Berkeley",
+        "degree": "B.S.",
+        "field_of_study": "Mathematics & Computer Science",
+        "graduation_year": 2014,
+        "gpa": 3.95
+      }
+    ],
+    "certifications": [
+      "AWS Certified Machine Learning - Specialty (2022)",
+      "Google Cloud Professional Data Engineer (2021)",
+      "TensorFlow Developer Certificate (2020)"
+    ],
+    "languages": [
+      "English",
+      "Mandarin Chinese",
+      "Spanish"
+    ]
+  },
+  "job_description": {
+    "job_title": "Senior Backend Engineer",
+    "company": "InnovateTech Solutions",
+    "department": "Engineering",
+    "location": "San Francisco, CA (Hybrid)",
+    "necessary_experince": [
+      "5+ years of professional software engineering experience"
+    ],
+    "necessary_skills": [
+      {
+        "name": "Python",
+        "skill_level": null,
+        "years_experience": null,
+        "category": null
+      },
+      {
+        "name": "Go",
+        "skill_level": null,
+        "years_experience": null,
+        "category": null
+      },
+      {
+        "name": "RESTful API design",
+        "skill_level": null,
+        "years_experience": null,
+        "category": null
+      },
+      {
+        "name": "microservices architecture",
+        "skill_level": null,
+        "years_experience": null,
+        "category": null
+      },
+      {
+        "name": "SQL databases",
+        "skill_level": null,
+        "years_experience": null,
+        "category": null
+      },
+      {
+        "name": "PostgreSQL",
+        "skill_level": null,
+        "years_experience": null,
+        "category": null
+      },
+      {
+        "name": "MySQL",
+        "skill_level": null,
+        "years_experience": null,
+        "category": null
+      },
+      {
+        "name": "cloud platforms",
+        "skill_level": null,
+        "years_experience": null,
+        "category": null
+      },
+      {
+        "name": "AWS",
+        "skill_level": null,
+        "years_experience": null,
+        "category": null
+      },
+      {
+        "name": "GCP",
+        "skill_level": null,
+        "years_experience": null,
+        "category": null
+      },
+      {
+        "name": "Azure",
+        "skill_level": null,
+        "years_experience": null,
+        "category": null
+      },
+      {
+        "name": "distributed systems concepts",
+        "skill_level": null,
+        "years_experience": null,
+        "category": null
+      },
+      {
+        "name": "Docker",
+        "skill_level": null,
+        "years_experience": null,
+        "category": null
+      },
+      {
+        "name": "Kubernetes",
+        "skill_level": null,
+        "years_experience": null,
+        "category": null
+      }
+    ],
+    "nice_to_have_experience": [
+      "Experience in fintech or payment processing systems"
+    ],
+    "nice_to_have_skills": [
+      {
+        "name": "Kafka",
+        "skill_level": null,
+        "years_experience": null,
+        "category": null
+      },
+      {
+        "name": "RabbitMQ",
+        "skill_level": null,
+        "years_experience": null,
+        "category": null
+      },
+      {
+        "name": "NoSQL databases",
+        "skill_level": null,
+        "years_experience": null,
+        "category": null
+      },
+      {
+        "name": "MongoDB",
+        "skill_level": null,
+        "years_experience": null,
+        "category": null
+      },
+      {
+        "name": "Redis",
+        "skill_level": null,
+        "years_experience": null,
+        "category": null
+      },
+      {
+        "name": "Prometheus",
+        "skill_level": null,
+        "years_experience": null,
+        "category": null
+      },
+      {
+        "name": "Grafana",
+        "skill_level": null,
+        "years_experience": null,
+        "category": null
+      },
+      {
+        "name": "DataDog",
+        "skill_level": null,
+        "years_experience": null,
+        "category": null
+      },
+      {
+        "name": "Terraform",
+        "skill_level": null,
+        "years_experience": null,
+        "category": null
+      },
+      {
+        "name": "CloudFormation",
+        "skill_level": null,
+        "years_experience": null,
+        "category": null
+      },
+      {
+        "name": "GraphQL",
+        "skill_level": null,
+        "years_experience": null,
+        "category": null
+      }
+    ],
+    "responsibilities": [
+      "Design, develop, and maintain scalable backend services and APIs",
+      "Build and optimize high-throughput payment processing systems",
+      "Collaborate with cross-functional teams including Product, Frontend, and DevOps",
+      "Lead technical design discussions and architecture reviews",
+      "Mentor junior and mid-level engineers",
+      "Participate in on-call rotation for production support",
+      "Write clean, maintainable, and well-tested code",
+      "Contribute to technical documentation and best practices"
+    ],
+    "education": [
+      "Bachelor's degree in Computer Science or equivalent experience"
+    ],
+    "leadership": [
+      "Lead technical design discussions and architecture reviews",
+      "Mentor junior and mid-level engineers"
+    ],
+    "soft_skills_requirement": [
+      "Excellent problem-solving and debugging skills",
+      "Strong communication and collaboration abilities"
+    ],
+    "salary_range": "$160,000 - $220,000 (based on experience)"
+  },
+  "skill_match": {
+    "matched_skills": [
+      "Python",
+      "SQL databases",
+      "PostgreSQL",
+      "MySQL",
+      "cloud platforms",
+      "AWS",
+      "GCP",
+      "distributed systems concepts",
+      "Docker",
+      "Kubernetes"
+    ],
+    "missing_skills": [
+      "Go",
+      "RESTful API design"
+    ],
+    "partial_matches": [
+      "Azure"
+    ],
+    "skill_gap_analysis": "The candidate possesses a Ph.D. in Computer Science, exceeding the minimum education requirement of a Bachelor's degree. The candidate demonstrates expertise in Python, SQL databases (PostgreSQL, MySQL), cloud platforms (AWS, GCP), distributed systems concepts, Docker, and Kubernetes. The candidate is missing Go and RESTful API design. The candidate possesses Kafka, Redis, and MongoDB from the preferred skills. The overall skill match is strong, but the missing required skills impact the score.",
+    "match_score": 0.75
+  },
+  "experience_evaluation": {
+    "total_years_experience": 6.5,
+    "relevant_years_experience": 0.0,
+    "relevant_roles": [],
+    "experience_level": "Mid",
+    "key_achievements": [],
+    "experience_score": 0.3,
+    "analysis": "The candidate has 6.5 years of experience in data science roles. However, none of the roles are in backend engineering. The candidate's responsibilities do not align with the target role, which requires backend development, API design, and system optimization. The candidate's experience is primarily in data science, machine learning, and model deployment. The candidate is missing the required 5+ years of professional software engineering experience. The candidate does not have experience in fintech or payment processing systems."
+  },
+  "culture_fit": {
+    "soft_skills_identified": [
+      "Communication",
+      "Collaboration",
+      "Problem-solving",
+      "Initiative and ownership"
+    ],
+    "leadership_indicators": [
+      "Led development teams",
+      "Mentored junior engineers"
+    ],
+    "culture_fit_score": 0.75,
+    "notes": "Dr. Chen demonstrates strong leadership and collaboration skills, aligning well with the job requirements. Her experience leading development teams and mentoring junior engineers is a good fit for the leadership expectations. Her communication skills are evident in her publications and presentations. Her problem-solving skills are demonstrated through successful project outcomes. However, the CV focuses more on data science and ML, and less on backend engineering specific soft skills. This is reflected in the score."
+  },
+  "overall_score": 0.5700000000000001,
+  "recommendation": "weak_match",
+  "strengths": [
+    "Strong skills in Python, SQL, and cloud platforms (AWS, GCP).",
+    "Solid understanding of distributed systems, Docker, and Kubernetes.",
+    "Demonstrates strong leadership and collaboration skills.",
+    "Possesses a Ph.D. in Computer Science."
+  ],
+  "concerns": [
+    "Lack of direct backend engineering experience.",
+    "Missing skills in Go and RESTful API design.",
+    "Experience level is mid, but relevant experience is 0 years.",
+    "Experience is primarily in data science, not backend development."
+  ],
+  "summary": "Dr. Sarah Chen possesses a strong academic background and relevant skills in Python, SQL, and cloud platforms. Her leadership and collaboration skills are also notable strengths. However, she lacks direct backend engineering experience, with her background primarily in data science. Her missing skills in Go and RESTful API design, coupled with the absence of relevant experience, raise concerns about her readiness for a Senior Backend Engineer role. While her skills and culture fit scores are promising, the lack of relevant experience significantly impacts her overall suitability.",
+  "timestamp": "2025-11-09T10:46:04.589836"
+}

@@ -1,0 +1,23 @@
+What’s the role?
+
+As a Senior Data Scientist focusing on Product and Marketing, you will lead analytical initiatives in areas such as Personalisation, Customer Lifetime Value, Strategic Segments Growth and deliver models and insights that inform cross-functional strategies across product, marketing, and design. You’ll be responsible for identifying growth opportunities, building scalable solutions, and translating complex data into actionable strategies.
+
+In this role, you'll lead end to end data science and advanced analytics projects from strategy to deployment, applying analytics, machine learning and gen AI to solve business challenges and deliver scalable value. You'll transform ideas into proof-of-concepts, validate them through experimentation, and scale successful initiatives. Expect to guide ethical and innovative use of technology, enhance customer journey insights, and support future growth strategies. You'll foster a high-performance culture, shape the team into a centre of excellence, and champion data and analytics strategy across platforms—always seeking new opportunities for value creation.
+
+What do I need?
+
+ Extensive experience in Data Science with a proven track record of delivering enterprise-scale analytics & AI solutions, emphasising strategic alignment and stakeholder engagement. 
+ Deep expertise in advanced AI techniques, including deep learning, reinforcement learning, and generative models, with the ability to design and optimise production-ready systems. 
+ Exposure to product and marketing functions is essential; experience in the financial services industry is highly desirable. 
+ Experience in SQL and Python is essential, exposure to cloud tech stack - Azure (Synapse, AML) and Snowflake is highly desirable. 
+ Strong analytical mindset, capable of establishing trends, completing root cause analysis and developing insights from customer, marketing, brand, operational and financial data sets 
+ Exposure to cloud technologies (e.g. Azure), deployment, proof-of-concepts, data science workflows, and Generative AI is highly desirable. 
+
+Why join us?
+
+We’re obsessed with becoming our customers #1 banking partner for life and we’re looking for people who are passionate about helping us achieve that goal. In return we’re committed to making Westpac the best place to work in the country. Here are just a few of the ways we’re already doing that:
+
+ Special offers on banking products and discounts from top brands, including generous employee-only mortgage rates! 
+ Flexible work arrangements to help you achieve a greater work/life balance, and a variety of leave options including Culture, Lifestyle and Wellbeing leave. 
+ Tailored learning and development opportunities to help your grow your career within the bank. 
+ Lots of opportunities to ‘give back’ to the Community by getting involved in our many volunteering initiatives

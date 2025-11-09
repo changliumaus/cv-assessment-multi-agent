@@ -1,0 +1,109 @@
+About the job
+Company Overview: 
+
+CoStar Group (NASDAQ: CSGP) is a leading global provider of commercial and residential real estate information, analytics, and online marketplaces. Included in the S&P 500 Index and the NASDAQ 100, CoStar Group is on a mission to digitise the world's real estate, empowering all people to discover properties, insights and connections that improve their businesses and lives. 
+ 
+
+We have been living and breathing the world of real estate information and online marketplaces for over 35 years, giving us the perspective to create truly unique and valuable offerings to our customers. We've continually refined, transformed, and perfected our approach to our business, creating a language that has become standard in our industry, for our customers, and even our competitors. We continue that effort today and are always working to improve and drive innovation. This is how we deliver for our customers, our employees, and investors. By equipping the brightest minds with the best resources available, we provide an invaluable edge in real estate.
+
+
+
+About Domain:
+
+Domain is a leading property technology and services marketplace that is home to one of the largest portfolios of property brands in Australia, including the Domain, Allhomes and Commercial Real Estate (CRE) platforms. In 2025, Domain became part of CoStar Group (NASDAQ: CSGP), a global leader in commercial real estate information, analytics, online marketplaces and 3D digital twin technology. Together, Domain and CoStar Group is dedicated to digitising the world's real estate, empowering all people to discover properties, insights, and connections that improve their businesses and lives.
+
+
+About the Role: 
+
+As a Research Scientist at Domain, you will bridge academic research with real-world application. You'll focus on designing cutting-edge AI models in areas like Natural Language Processing (NLP), Computer Vision, Large Language Models (LLMs), and multimodal architectures, all tailored to solve complex, domain-specific challenges. Your work will generate high-value, proprietary data assets that enable new products, increase user engagement, and streamline internal processes.
+ 
+
+You'll also be responsible for documenting research, translating findings into actionable business insights, and ensuring the long-term impact of your innovations. Success in this role is measured by the creation of breakthrough AI models, unique data assets, and tangible improvements to Domain's products and services.
+
+ 
+
+
+Key Responsibilities
+
+Innovate and Develop AI Models:
+
+Research and experiment with novel NLP, Computer Vision, LLMs, and multimodal models.
+ 
+Deliver models that solve previously unsolvable problems and unlock new product capabilities.
+ 
+ 
+Generate Proprietary Data Assets:
+
+Automate data cleaning, labeling, and extraction processes to produce unique, high-value data.
+ 
+Ensure your data directly supports new products, drives engagement, and reduces manual workload.
+ 
+ 
+Communicate and Document Knowledge:
+
+Translate complex research into clear, actionable business insights.
+ 
+Maintain technical guides, data dictionaries, and best practices to enable internal teams.
+
+Key Success Measures
+ 
+
+Development and deployment of breakthrough AI models tailored to domain-specific challenges.
+ 
+Creation of proprietary data assets that drive product innovation and business advantage.
+ 
+Clear, actionable documentation that enables other teams to build on your research.
+ 
+Demonstrated increase in efficiency, engagement, or revenue from AI-powered solutions.
+
+Our Ideal Person:
+
+Essential:
+ 
+
+Proven track record in AI/ML research and deployment for real-world applications.
+ 
+Hands-on experience with unstructured data, NLP, Computer Vision, and/or LLMs.
+ 
+Proficiency in Python and ML/DL frameworks.
+ 
+Strong SQL skills and experience with data warehouses like Snowflake.
+ 
+Bachelor's Degree or equivalent from an accredited university or college or Master's degree in Computer Science, Data Science, or a related quantitative field.
+
+Nice to Haves:
+ 
+
+Experience with cloud platforms (AWS, GCP, Azure) and distributed computing
+ 
+Familiarity with end-to-end AI/ML pipelines and MLOps best practices.
+ 
+
+Why join us? 
+
+
+We're the kind of place you can make a real impact, with a workplace culture where you can be you. It's a fun, safe space where you'll always feel you belong. Perks of the role include:
+
+Our much-loved approach to flexible hybrid working;
+ 
+Mentoring and leadership programs, with access to Learning & Development tools;
+ 
+First rate parental leave and support for working parents;
+ 
+Regular social events including our famous Innovation Days
+ 
+
+We don't just talk, we do. Every day we solve property problems for Australians and beyond. We encourage our people to see the possibilities, and turn them into realities.
+
+
+What's next? 
+
+We'll give your application the thoughtful attention it deserves and get back to you as soon as possible. If there's a match, one of our recruitment consultants will reach out so keep your phone handy! We're genuinely excited about the chance to work together and make a meaningful impact.
+
+
+Equity, Diversity and Inclusion at Domain 
+
+Domain is enthusiastically and unapologetically committed to fostering an equitable, inclusive work culture which reflects our customers and communities. We are proactively looking for candidates from all lived experiences, including people with disability, and people of all ages, ethnicities, cultures (including Aboriginal and Torres Strait Islander Peoples), faiths, sexual orientations, and gender identities (including trans and non-binary people). 
+
+ 
+We are committed to providing an equitable recruitment process for people with disability. If you require adjustments during the process we're here to support. If you wish to receive this job advertisement in an accessible format, or have a confidential chat about workplace adjustments, please contact our Equity, Diversity and Inclusion team at edi@domain.com.au or leave a message on 1300 858 356 and we will get back to you.

@@ -1,0 +1,76 @@
+John Doe
+Senior Software Engineer
+
+Email: john.doe@email.com
+Phone: +1 (555) 123-4567
+Location: San Francisco, CA
+LinkedIn: linkedin.com/in/johndoe
+GitHub: github.com/johndoe
+
+PROFESSIONAL SUMMARY
+Results-driven Senior Software Engineer with 8+ years of experience building scalable web applications
+and distributed systems. Expert in Python, JavaScript, and cloud technologies. Proven track record of
+leading cross-functional teams and delivering high-impact projects. Passionate about clean code,
+system design, and mentoring junior developers.
+
+TECHNICAL SKILLS
+Programming Languages: Python, JavaScript/TypeScript, Java, Go
+Web Frameworks: Django, Flask, FastAPI, React, Node.js, Express
+Databases: PostgreSQL, MongoDB, Redis, Elasticsearch
+Cloud & DevOps: AWS (EC2, S3, Lambda, RDS), Docker, Kubernetes, Terraform, CI/CD
+Tools & Technologies: Git, Jenkins, GitHub Actions, Prometheus, Grafana
+Architecture: Microservices, RESTful APIs, GraphQL, Event-driven architecture
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer | TechCorp Inc. | San Francisco, CA
+January 2021 - Present (3+ years)
+
+• Led development of a microservices-based e-commerce platform serving 2M+ daily active users
+• Architected and implemented scalable payment processing system handling $50M+ annual revenue
+• Reduced API response time by 60% through database optimization and caching strategies
+• Mentored team of 5 junior developers, conducting code reviews and pair programming sessions
+• Implemented comprehensive monitoring and alerting using Prometheus and Grafana
+• Collaborated with product managers and designers to deliver features ahead of schedule
+• Technologies: Python, Django, React, PostgreSQL, Redis, AWS, Docker, Kubernetes
+
+Software Engineer | DataSolutions LLC | San Francisco, CA
+March 2018 - December 2020 (2.8 years)
+
+• Developed RESTful APIs for data analytics platform processing 100GB+ daily data
+• Built automated ETL pipelines reducing manual data processing time by 80%
+• Implemented real-time data visualization dashboard using React and D3.js
+• Contributed to migration from monolithic to microservices architecture
+• Participated in on-call rotation and incident response
+• Technologies: Python, Flask, JavaScript, MongoDB, Elasticsearch, Docker
+
+Junior Software Engineer | StartupHub | Remote
+June 2016 - February 2018 (1.8 years)
+
+• Developed features for customer relationship management (CRM) platform
+• Created automated testing suite achieving 85% code coverage
+• Fixed critical bugs and improved application performance
+• Technologies: Python, Django, jQuery, PostgreSQL
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+University of California, Berkeley
+Graduated: May 2016
+GPA: 3.7/4.0
+
+CERTIFICATIONS
+
+• AWS Certified Solutions Architect - Associate (2022)
+• Certified Kubernetes Administrator (CKA) (2021)
+
+PROJECTS & ACHIEVEMENTS
+
+• Open Source Contributor: Active contributor to Django and Flask projects (500+ GitHub stars)
+• Tech Blog: Published 20+ technical articles on system design and best practices
+• Hackathon Winner: 1st place at TechCrunch Disrupt Hackathon 2020
+
+LANGUAGES
+
+• English (Native)
+• Spanish (Professional working proficiency)
